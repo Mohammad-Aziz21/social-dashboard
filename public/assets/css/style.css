@@ -1,0 +1,230 @@
+/* ADMIN   START*/
+
+.record-img{
+    width: 50%;
+}
+.login-text {
+    color: #fff !important;
+}
+.btn.btn-primary.waves-effect.waves-light {
+    background-color: #0a2c56 !important;
+}
+.navbar-brand-box {
+    background: #00285a !important;
+    border-bottom: 1px solid #7c7c7c;
+}
+#page-topbar .logo-sm img {
+    width: 100% !important;
+}
+.vertical-menu {
+    background: #0a2c56 !important;
+}
+
+#menu-sidbar {
+    background: #0a2c56 !important;
+}
+.navbar-brand-box img {
+    width: 20% !important;
+    height: auto;
+}
+.metismenu .mm-active {
+    color: #0a2c56!important;
+    background-color: white;
+    width: 92% !important;
+    border-radius: 20px;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+#sidebar-menu .mm-active a {
+    color: #0a2c56 !important;
+    font-weight: 700 !important;
+}
+#sidebar-menu .mm-active a i {
+    color: #0a2c56!important;
+}
+.operators-section img {
+    width: 20%;
+    border-radius: 100%;
+    margin-bottom: 10px;
+}
+.operators-section .card.card-body {
+    align-items: center;
+    border-radius: 20px;
+    box-shadow: 0 0.75rem 1.5rem rgb(88 101 118 / 15%);
+}
+.operators-section button.btn.btn-primary.btn-sm.btn-rounded.waves-effect.waves-light {
+    padding: 7px 20px;
+}
+.modal p{
+    margin: 0;
+}
+.home-opr-mod .modal-title {
+    color: #0a2c56;
+    font-size: 19px;
+}
+.home-opr-mod .btn.btn-secondary {
+    background-color: #0a2c56;
+    border-radius: 50px;
+    padding: 10px 40px;
+}
+.operators-details tr {
+    display: flex;
+    flex-direction: column;
+    border-top: none !IMPORTANT;
+}
+.operators-details  td {
+    border: navajowhite;
+    padding: 0 !important;
+}
+.operators-details tbody {
+    display: flex;
+    align-items: center;
+    justify-content: initial;
+    gap: 60px;
+    padding: 10px;
+    border-radius: 6px;
+    border-bottom: 1px solid #e3e3e3;
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+}
+.operators-details .card-body {
+    padding: 0;
+}
+.modal-header img {
+    width: 10%;
+    border-radius: 100%;
+    margin-right: 14px;
+}
+
+.pg-head button.btn.btn-primary.btn-sm.btn-rounded.waves-effect.waves-light {
+    padding: 10px 30px;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 13px;
+}
+.pg-head  .page-title-box {
+    padding-bottom: 16px;
+    border-bottom: 1px solid #e7dada;
+    margin-bottom: 30px;
+}
+.pg-head .page-title-box h4 {
+    font-size: 20px!important;
+}
+/* ADMIN   END*/
+
+
+/* ADMIN Customer  START */
+.customers-admin p.card-text {
+    margin: 0;
+}
+.customers-admin button.btn.btn-primary.btn-sm.btn-rounded.waves-effect.waves-light {
+    margin-top: 18px;
+}
+.customers-admin img {
+    margin-bottom: 19px;
+    margin-top: -42px;
+}
+.customers-admin .card.card-body {
+    margin-top: 35px;
+}
+.admin-customer .modal-body tr {
+    width: 100%;
+}
+.customer-detail-note {
+    padding: 13px;
+    background-color: #e9e181;
+    color: #000;
+    margin: 17px 0px 0px;
+    border-radius: 10px;
+}
+.admin-customer .modal-body .card {
+    margin: 0;
+}
+/* ADMIN Customer  END */
+
+
+/* ADMIN RECORDS START */
+.badge {
+    border: 0;
+}
+.record-bar .form-control.form-control-sm {
+    border-radius: 500px;
+}
+.record-popup .modal-dialog.modal-dialog-centered {
+    max-width: 655px !important;
+}
+.stp-box {
+    flex-direction: column;
+    align-items: start !important;
+    gap: 13px !important;
+}
+
+/* .record-popup tbody {
+    flex-direction: column;
+    justify-content: start !important;
+    gap: 20px !important;
+} */
+
+
+/* Setting Operator start */
+.box-edit .col-sm-9 {
+    width: 72%;
+}
+.box-edit  label.col-sm-3.col-form-label {
+    width: 28%;
+}
+.w-md {
+    background-color: #0A2C56;
+}
+
+
+/* Followup operator start */
+.follow-operator .nav-link {
+    background-color: #003270a3 !important;
+    color: #fff !important;
+    margin-right: 20px !important;
+    width: 117px !important;
+}
+.follow-operator    .nav-item {
+    flex-grow: 0;
+}
+.follow-operator  .nav-link.active {
+    background-color: #0a2c56 !important;
+}
+
+/* CUSTOMER OPERATOR START */
+.oper-cust tr {
+    width: 100%;
+}
+
+
+/* OPERATOR RECORDS START */
+.records-oper img {
+    width: 110%;
+}
+.records-oper .modal-dialog.modal-dialog-centered {
+    max-width: 712px !important;
+}
+.records-oper tbody {
+    display: flex;
+    align-items: start;
+    justify-content: start;
+}
+.repeater .row {
+    padding-bottom: 25px;
+}
+.records-oper input.btn.btn-primary {
+    background-color: #0a2c56 !important;
+}
+#recordop-bar .nav-item {
+    flex-grow: 0;
+}
+#recordop-bar .nav-link {
+    background-color: #003270a3 !important;
+    color: #fff !important;
+    margin-right: 20px !important;
+    width: 117px !important;
+}
+#recordop-bar .nav-link.active {
+    background-color: #0a2c56 !important;
+}
